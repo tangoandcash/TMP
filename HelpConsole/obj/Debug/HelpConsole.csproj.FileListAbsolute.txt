@@ -1,6 +1,0 @@
-C:\Users\Diego de la Vega\documents\visual studio 2015\Projects\NIPQuest_Filip_Wypych\HelpConsole\bin\Debug\HelpConsole.exe.config
-C:\Users\Diego de la Vega\documents\visual studio 2015\Projects\NIPQuest_Filip_Wypych\HelpConsole\bin\Debug\HelpConsole.exe
-C:\Users\Diego de la Vega\documents\visual studio 2015\Projects\NIPQuest_Filip_Wypych\HelpConsole\bin\Debug\HelpConsole.pdb
-C:\Users\Diego de la Vega\documents\visual studio 2015\Projects\NIPQuest_Filip_Wypych\HelpConsole\obj\Debug\HelpConsole.csprojResolveAssemblyReference.cache
-C:\Users\Diego de la Vega\documents\visual studio 2015\Projects\NIPQuest_Filip_Wypych\HelpConsole\obj\Debug\HelpConsole.exe
-C:\Users\Diego de la Vega\documents\visual studio 2015\Projects\NIPQuest_Filip_Wypych\HelpConsole\obj\Debug\HelpConsole.pdb
