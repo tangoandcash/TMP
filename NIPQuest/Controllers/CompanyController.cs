@@ -43,7 +43,6 @@ namespace NIPQuest.Controllers
             db.LogInfoTable.Add(NewRow);
             db.SaveChanges();
 
-            
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);

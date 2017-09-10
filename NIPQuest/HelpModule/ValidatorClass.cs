@@ -32,7 +32,7 @@ namespace NIPQuest.HelpModule
             ////7777777777
             if (regexTenDigits.Match(numberToCheck).Success)
                 return numberToCheck;
-            ///777-777-77-77
+            ///777-777-77-77  
             else if (regexNIPpattern.Match(numberToCheck).Success)
                 return String.Join("", numberToCheck.Split('-').ToList());
             ////PL7777777777
